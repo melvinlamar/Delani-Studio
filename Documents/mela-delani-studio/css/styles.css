@@ -63,20 +63,23 @@
      cursor:pointer;
    }
    #part1{
-   }
-   #part2{
-   }
-   #part3{
-   }
+  }
+  #part2{
+  }
+  #part3{
+  }
    #flexer{
      display: flex;
      flex-direction: row;
      justify-content: space-between;
    }
-   .s-image{
-     position:relative;
-
-   }
-   .serv{
-     position:absolute;
-   }
+   .portfolio{
+    padding: 10px;
+    margin: 50px;
+    text-align: center center;
+  }
+  h2{
+    text-align: center;
+  }
+  
+   
