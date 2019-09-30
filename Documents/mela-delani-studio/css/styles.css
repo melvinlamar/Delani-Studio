@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+  }
+  .logo{
+    text-align: center;
+    background-image: url("../images/backgrounds/h_img.jpg");
+    background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    
+  }
+  #mouse{
+    padding-top: 250px;
+  }
+
