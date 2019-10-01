@@ -7,6 +7,8 @@ This website clearly enables efficient user/customer interaction with Delani stu
 * To visit this website one needs a web browser
 * An active internet
 * A computer or network access device
+* The link to the url is down below
+* https://melvinlamar.github.io/Delani-Studio/
 
 ## Known Bugs
 As of todate there is no known bug on the webpage
