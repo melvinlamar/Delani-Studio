@@ -18,5 +18,16 @@ $(document).ready(function(){
       alert(name + " Thanks for your response!");
       event.preventDefault();
      });
- 
+     $('.A').hover(function () {
+      $(this).animate({opacity:'0.8'});
+    },
+   function () {
+     $(this).animate({opacity:'0'});
+   });
+   });
+    $(".A").hide();
+    $(".view").hover(function(){
+      $(this).children(".A").toggle();
+    });
+   
  
