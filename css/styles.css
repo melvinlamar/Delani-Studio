@@ -62,12 +62,7 @@
    #product{
      cursor:pointer;
    }
-   #part1{
-  }
-  #part2{
-  }
-  #part3{
-  }
+  
    #flexer{
      display: flex;
      flex-direction: row;
@@ -92,15 +87,17 @@
 
 #name, #email, #message{
   background-color: transparent;
+  font-size: 20px;
+  color: white;
 }
 #button-color{
   background-color: blue;
   color: white;
 }
 input[type="text"],input[type="email"],textarea[type="text"]{
-  background: transparent;
+  /* background: transparent; */
   outline: none;
-  background-color: transparent;
+  background-color: white;
 }
 footer{
   text-align: center;
@@ -114,7 +111,7 @@ footer{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: black;
+  color: rgb(26, 24, 24);
   background-color: rgba(247,248,249,0.7);
   width: 100%;
   height: 100%;
