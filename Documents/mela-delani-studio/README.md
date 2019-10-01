@@ -8,3 +8,11 @@ This website clearly enables efficient user/customer interaction with Delani stu
 * An active internet
 * A computer or network access device
 
+## Known Bugs
+--------------
+## Technologies/Languages Used
+html-create and develop the actual webpage content css - Extensively used inorder to customize and restyle the webpages as a whole. 
+markdown - Extensively create a detailed readme 
+Javascript and jQuery - Largely used for the interaction of the page with the user.Bootsrap.css to add some effects.
+
+
