@@ -13,4 +13,10 @@ $(document).ready(function(){
      //     $("#product").slideToggle();
     //  });
   
-    
+    $("#button-color").click(function(event){
+      var name = $("#name").val();
+      alert(name + " Thanks for your response!");
+      event.preventDefault();
+     });
+ 
+ 
